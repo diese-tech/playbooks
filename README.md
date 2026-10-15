@@ -46,6 +46,7 @@ Core templates for new repositories.
 Reusable operational and engineering guardrails.
 
 - `operations-guide-template.md`
+- `production-readiness-inventory.md`
 
 ### `03-codebase-understanding/`
 
